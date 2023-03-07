@@ -65,4 +65,4 @@ Well, this method is performed through regedit.
 
 ![6Sin título](https://user-images.githubusercontent.com/115459058/223194669-d76dcd03-0869-4868-b039-046c861efd61.png)
 
-
+⚠ To finish, press the keys **Ctrl + Shift + Esc** and open the **task manager**, once opened, look for the **windows explorer**, right click on it and **restart** it.
